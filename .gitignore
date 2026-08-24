@@ -1,0 +1,7 @@
+/.musicdl_temp
+/build
+/dist
+/*.spec
+/abc
+/已下载音乐
+*.spec

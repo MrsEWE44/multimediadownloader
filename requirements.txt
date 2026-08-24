@@ -1,0 +1,4 @@
+yt-dlp>=2026.8.0
+PyQt6>=6.11.0
+musicdl>=2.13.0
+requests>=2.32.0
