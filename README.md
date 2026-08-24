@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
-  <img alt="Python Version" src="https://img.shields.io/badge/python-3.10+-blue">
-  <img alt="PyQt6" src="https://img.shields.io/badge/GUI-PyQt6-green">
-  <img alt="yt-dlp" src="https://img.shields.io/badge/video--downloader--yt--dlp-red">
-  <img alt="musicdl" src="https://img.shields.io/badge/music--downloader--musicdl-orange">
+<a href="https://peps.python.org/pep-0719"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/musicdl"></a>
+ <a href="https://pypi.org/project/musicdl"><img alt="PyPI - Version" src="https://img.shields.io/pypi/v/musicdl"></a>
+ <a href="https://github.com/MrsEWE44/multimediadownloader/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/MrsEWE44/multimediadownloader"></a>
+ <a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MrsEWE44/multimediadownloader?style=flat"></a>
+ <a><img alt="GitHub forks" src="https://img.shields.io/github/forks/MrsEWE44/multimediadownloader?style=flat"></a>
+ <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/MrsEWE44/multimediadownloader/total"></a>
+ <a><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MrsEWE44/multimediadownloader?style=flat"></a>
 </p>
 
 <p align="center">
